@@ -1,0 +1,1 @@
+SELECT AVG(students.marks) as marksaverage from students where marks >= 40
